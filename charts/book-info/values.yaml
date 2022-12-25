@@ -1,3 +1,0 @@
-deployment:
-  image: tommytran2804/k8spipelineapp
-  tag: build_2022-11-04_15.52.06
