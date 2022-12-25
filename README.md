@@ -1,1 +1,1 @@
-# bookinfo_helm_repo
+# bookinfo_helm_repos
